@@ -15,7 +15,7 @@ public class PictureAction : MonoBehaviour {
 		if (animator != null) {
 			animator.SetTrigger("Click");
 		}
-		GameController.instance.PlayClickFeedback();
+		BallGameController.instance.PlayClickFeedback();
 		Invoke("DoExecute", 1);
 	}
 
