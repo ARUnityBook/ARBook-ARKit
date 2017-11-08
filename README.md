@@ -51,7 +51,7 @@ Game Mode:
 * Reset button is displayed
 * GameController.StartGame() is called to start
 
-We replace the Vuforia-specific AppStateManager script with the anchor-based AnchorStateManager script. It contains functions, SetGameMode and SetAnchorMode trigged by the CompleteButton and ResetButton, respectively.
+We replace the Vuforia-specific AppStateManager script with the anchor-based AnchorStateManager script. It contains functions, SetGameMode and SetAnchorMode triggered by the CompleteButton and ResetButton, respectively.
 
 
 
