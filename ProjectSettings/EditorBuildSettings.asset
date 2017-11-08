@@ -5,30 +5,18 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 0
-    path: Assets/UnityARKitPlugin/UnityARKitScene.unity
-    guid: c159f2591a9b5c843b0a0442451f78f8
-  - enabled: 0
-    path: Assets/UnityARKitPlugin/UnityParticlePainter.unity
-    guid: 0327f0aa0142146c291df8203b848257
-  - enabled: 0
-    path: Assets/UnityARKitPlugin/UnityARBallz.unity
-    guid: 75972bcfc855b486593ec2ec68da0b81
-  - enabled: 0
-    path: Assets/UnityARKitPlugin/UnityARShadows.unity
-    guid: 14d17ec7304f440b48e6b953ba7a5895
-  - enabled: 0
-    path: Assets/UnityARKitPlugin/UnityAROcclusion.unity
-    guid: 7f026c59fb9d6489ab924c6e0e119760
-  - enabled: 0
-    path: Assets/UnityARKitPlugin/ARKitRemote/UnityARKitRemote.unity
-    guid: 3ed73c0c9d4b76a418a0541c0cefd3ac
   - enabled: 1
+    path: Assets/Ch9-Ballgame.unity
+    guid: f3f671697ec164b93b508cb7c88be017
+  - enabled: 0
     path: Assets/Ch4-Drone.unity
     guid: 1aeee1945e4dc4fc99ef09ef92fb66d3
   - enabled: 0
     path: Assets/Ch5-SolarSystem.unity
     guid: 6c9766c192b9f40febfac32720a93721
+  - enabled: 0
+    path: Assets/Ch6-ChangeTire.unity
+    guid: d925961691a544320af45e5dbeaf1bda
   - enabled: 0
     path: Assets/Ch7-ARManual.unity
     guid: 4b3ea756fdc6b426cbb0cb231c8ccc50
@@ -36,5 +24,8 @@ EditorBuildSettings:
     path: Assets/Ch8-PhotoFrames.unity
     guid: 398ab1e55de6a4e4686de88cc4d706f3
   - enabled: 0
-    path: Assets/Ch9-Ballgame.unity
-    guid: f3f671697ec164b93b508cb7c88be017
+    path: Assets/UnityARKitPlugin/ARKitRemote/UnityARKitRemote.unity
+    guid: 3ed73c0c9d4b76a418a0541c0cefd3ac
+  - enabled: 0
+    path: Assets/UnityARKitPlugin/UnityARKitScene.unity
+    guid: c159f2591a9b5c843b0a0442451f78f8

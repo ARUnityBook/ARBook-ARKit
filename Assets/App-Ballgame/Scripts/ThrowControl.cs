@@ -42,7 +42,7 @@ public class ThrowControl : MonoBehaviour {
 #else
 	isInputBegan = Input.touchCount == 1 && Input.GetTouch(0).phase == TouchPhase.Began;
 	isInputEnded = Input.touchCount == 1 && Input.GetTouch(0).phase == TouchPhase.Ended;
-	isInputLast = Input.touchCount == 1;
+	//isInputLast = Input.touchCount == 1;
 	inputPositionCurrent = Input.GetTouch (0).position;
 #endif
         if (isHolding)
